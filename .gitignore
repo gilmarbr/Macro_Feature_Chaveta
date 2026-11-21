@@ -1,0 +1,12 @@
+# Lista branca: so os arquivos do projeto vao para o repositorio
+*
+!.gitignore
+!.gitattributes
+!Leiame.md
+!LICENSE
+!Rasgo de Chaveta.swp
+!*.bas
+!*.cls
+!*.bmp
+!Rasgo.svg
+!icones.ps1

@@ -1,0 +1,6 @@
+# Fontes VBA: UTF-8 no repositorio, Windows-1252 + CRLF na pasta (exigencia do editor VBA)
+*.bas text working-tree-encoding=WINDOWS-1252 eol=crlf
+*.cls text working-tree-encoding=WINDOWS-1252 eol=crlf
+*.swp binary
+*.bmp binary
+*.SLDPRT binary
