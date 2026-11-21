@@ -1,3 +1,5 @@
+'*************************Gilmar Barbosa*****Autom Mecatrônica*********
+
 Attribute VB_Name = "Inserir"
 '==============================================================================
 ' Rasgo de chaveta DIN 6885 - ponto de entrada (botão da barra de ferramentas)
