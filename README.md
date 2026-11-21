@@ -13,5 +13,3 @@ O rasgo vira uma feature na árvore, com ícone próprio. Ele é redimensionado 
 3. Vá em **Ferramentas › Macro › Executar…** e escolha `Rasgo de Chaveta.swp`.
 
 📖 **Documentação completa (módulos, instalação, uso e notas técnicas): [Leiame.md](Leiame.md)**
-
-Testado no SOLIDWORKS 2024 SP3.1.
