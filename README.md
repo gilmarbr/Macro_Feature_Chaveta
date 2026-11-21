@@ -1,3 +1,6 @@
+<img width="1194" height="726" alt="image" src="https://github.com/user-attachments/assets/aa013881-6eb6-4d38-bed4-985f6258ece7" />
+
+
 # Macro Feature – Rasgo de chaveta DIN 6885
 
 <img src="rasgo_de_chaveta.bmp" width="96" align="right" alt="Ícone">
