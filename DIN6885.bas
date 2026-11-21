@@ -1,3 +1,4 @@
+'*************************Gilmar Barbosa*****Autom Mecatrônica*********
 Attribute VB_Name = "DIN6885"
 '==============================================================================
 ' Tabela DIN 6885-1 - chaveta paralela, forma A. Valores em mm.
