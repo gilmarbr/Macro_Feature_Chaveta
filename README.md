@@ -16,5 +16,6 @@ O rasgo vira uma feature na árvore, com ícone próprio. Ele é redimensionado 
 3. Vá em **Ferramentas › Macro › Executar…** e escolha `Rasgo de Chaveta.swp`.
 4. Use, copie e distribua. Se puder citar o Autor, agradecemos!
 5. Se houver boa receptividade, vamos fazer um tutorial de como fazer esse tipo de Macros, quais ferramentas usar e o caminho das pedras.
+<img width="823" height="815" alt="image" src="https://github.com/user-attachments/assets/6894a195-2e46-410a-8be7-876c0a8f2d02" />
 
 📖 **Documentação completa (módulos, instalação, uso e notas técnicas): [Leiame.md](Leiame.md)**
